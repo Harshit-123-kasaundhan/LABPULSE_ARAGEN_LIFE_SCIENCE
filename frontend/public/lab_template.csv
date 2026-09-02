@@ -1,0 +1,9 @@
+test_name,value,unit,age,sex
+Hemoglobin,8.1,g/dL,45,female
+WBC,12.5,10³/µL,,
+Platelets,250,10³/µL,,
+Glucose,85,mg/dL,,
+Creatinine,1.5,mg/dL,,
+Sodium,140,mmol/L,,
+Potassium,4.2,mmol/L,,
+Calcium,9.5,mg/dL,,

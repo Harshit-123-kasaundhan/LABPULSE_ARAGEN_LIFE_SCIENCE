@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+google-generativeai==0.8.3
+mcp==1.2.0
+python-dotenv==1.0.0
+httpx
+pytest
